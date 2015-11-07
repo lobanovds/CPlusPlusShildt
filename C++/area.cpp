@@ -5,14 +5,11 @@ int main()
 {
 	int length;
 	int width;
-	int area;
 	 length =5;
 	 width = 7;
 
-	 area = length*width;
-
 	 cout << "area is ";
-	 cout << area;
+	 cout << length*width;
 
 	return 0;
 }
