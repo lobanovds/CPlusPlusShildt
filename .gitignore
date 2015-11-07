@@ -73,3 +73,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.h
+C++.v11.suo
+*.sdf
+C++.opensdf
+*.sdf
+C++.sdf
